@@ -22,7 +22,7 @@ weight = 2
 
 [[main]]
 name = "More"
-pageRef = "theory"
+pageRef = "more"
 weight = 3
 
 # [[main]]
@@ -80,7 +80,7 @@ weight = 20
 [[main]]
 pre = "github"
 name = " "
-url = "https://github.com/benjipeng"
+url = "https://github.com/PhysiGest/physigest-home"
 weight = 10
 
 [[main]]

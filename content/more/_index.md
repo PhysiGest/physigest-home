@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning Models"
-description: "An ode to tensors, a fundamental aspect of many machine learning models"
+title: "More About PhysiGest"
+description: "Tune in for more exciting news and features we are bring in to our platform"
 
 showLikes: false
 showViews: false
@@ -14,9 +14,11 @@ cascade:
 ---
 
 {{< lead >}}
-An ode to tensors, a fundamental aspect of many machine learning models
+Welcome to our playful side of PhysiGest, where cutting-edge technology meets the _dance_ floor. Here, gestures are more than just movements—they're the secret handshakes between safety and efficiency.
 {{< /lead >}}
 
-Hello this is *ALMOST* everything
-
 ---
+
+At PhysiGest, we believe that a safe workplace is a happy workplace. That's why our technology doesn't just watch your back—it teaches you the best moves to keep it in tip-top shape. From the rhythm of packing to the ballet of loading docks, our system tunes into each twist and turn, ensuring every day ends on a high note.
+
+**Join us on this harmonious journey to a safer tomorrow, where every shift ends with applause.**
