@@ -1,21 +1,7 @@
 ---
-title: "Welcome to RenoCrypt! :tada:"
-description: "AppCubic and RenoCrypt"
+title: "Introducing PhysiGest"
+description: "PhysiGest - Empowering safer workplaces with cutting-edge motion technology and seamless connection"
 ---
 
-<div class="px-4 py-2 font-bold rounded-md bg-primary-100 dark:bg-primary-900">Mixing the mystique of alchemy with the science of algorithms. Highlighting the enigmatic nature of mathematical matrices used in machine learning.</div>
-
-
-<div class="flex px-4 py-2 mb-8 mt-4 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "heart" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert"><code id="layout">Thank You For All The Support</code> -- Benji </span> 
-    <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "heart-empty" >}}
-  </span>
-  </span>
-</div>
-
-Explore the to know more about me. If you like what you see, check out the project on <a target="_blank" href="https://books.renocrypt.com">BookShelf</a> or my <a target="_blank" href="https://futur.renocrypt.com">Futra</a> powered by RenoCrypt and ALL the open-source software as well as free digital infrastructure.
+<div class="px-4 py-4 font-semibold rounded-lg dark:bg-primary-700 backdrop-filter backdrop-blur border-2">
+<div>Empowering safer workplaces with cutting-edge motion technology</div> </br><div class="font-medium">Welcome to PhysiGest, where we're revolutionizing workplace safety with our advanced gesture detection technology. Dive into a world where every move is optimized for health and efficiency, ensuring that every worker steps into a safer tomorrow. Join us in shaping the future of workplace wellness!</div></div>

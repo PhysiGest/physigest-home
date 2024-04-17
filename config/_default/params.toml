@@ -5,11 +5,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "noir"
+colorScheme = "ocean"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = true
 
 # mainSections = ["section1", "section2"]
@@ -37,7 +37,7 @@ showScrollToTop = true
 [homepage]
 layout = "custom"                   # valid options: page, profile, hero, card, background, custom
 homepageImage = "homepage-hero.jpg" # used in: hero, and card
-showRecent = true
+showRecent = false
 showRecentItems = 3
 showMoreLink = false
 showMoreLinkDest = "/posts"

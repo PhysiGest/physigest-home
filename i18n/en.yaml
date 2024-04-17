@@ -45,7 +45,7 @@ footer:
 
 list:
   externalurl_title: "Link to external site"
-  no_articles: "There are no articles to list here yet."
+  no_articles: "Welcome, to the world of PhysiGest"
 
 nav:
   scroll_to_top_title: "Scroll to top"
@@ -65,7 +65,7 @@ sharing:
   twitter: "Tweet on Twitter"
 
 shortcode:
-  recent_articles: "Recent"
+  recent_articles: "About Us"
 
 recent:
   show_more: "Show More"

@@ -11,19 +11,19 @@
 
 
 [[main]]
-name = "Generative"
-pageRef = "posts"
-weight = 10
+name = "Our Story"
+pageRef = "story"
+weight = 1
 
 [[main]]
-name = "MLOps"
-pageRef = "mlops"
-weight = 10
+name = "Our Team"
+pageRef = "team"
+weight = 2
 
 [[main]]
-name = "Theory"
+name = "More"
 pageRef = "theory"
-weight = 10
+weight = 3
 
 # [[main]]
 # name = "Parent"
