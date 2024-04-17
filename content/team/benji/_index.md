@@ -1,5 +1,5 @@
 ---
-title: "Meet Benji Peng, Ph.D."
+title: "Meet Mr. Benji Peng, Ph.D."
 description: "Benji Peng Ph.D."
 date: 2024-04-15
 # series: ["Image Generation"]
