@@ -11,7 +11,7 @@ showHero: true
 heroStyle: background
 ---
 
-Layla is an artist and a UI/UX expert.
+Layla is a designer and a human factor researcher.
 
 Meet Layla Sun, our insightful co-founder of PhysiGest, who brings a unique blend of artistry and engineering to the table. With a Master’s degree in Interactive Art and Technology, Layla has a strong foundation in VR systems used for sports training and rehabilitation. Her academic pursuits, enriched with publications on eye-hand coordination, have seamlessly transitioned into practical solutions for enhancing workplace safety.
 
